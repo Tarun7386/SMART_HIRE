@@ -1,0 +1,31 @@
+John Smith
+Email: john.smith@example.com
+Phone: (555) 123-4567
+
+Skills:
+• Python, JavaScript, SQL
+• React, Django, Flask
+• AWS, Docker, Git
+• Agile development
+
+Experience:
+
+TECH SOLUTIONS INC.
+Senior Developer
+2018-01 - Present
+• Developed and maintained multiple web applications using Python and Django
+• Led a team of 3 junior developers on a client project
+• Improved application performance by 40% through code optimization
+
+WEB INNOVATIONS LLC
+Software Engineer
+2015-05 - 2017-12
+• Created RESTful APIs for mobile applications
+• Implemented responsive UI designs using React
+• Collaborated with UX designers to improve user experience
+
+Education:
+
+University of Technology
+BS in Computer Science
+2015

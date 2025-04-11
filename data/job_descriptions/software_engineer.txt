@@ -1,0 +1,22 @@
+Software Engineer
+
+About the Role:
+We are seeking a talented Software Engineer to join our development team. The ideal candidate will have strong programming skills and a passion for creating efficient, scalable software solutions.
+
+Requirements:
+• 3+ years of experience in software development
+• Proficiency in Python, JavaScript, and SQL
+• Experience with web frameworks such as Django or Flask
+• Knowledge of RESTful API design and implementation
+• Bachelor's degree in Computer Science or related field
+• Ability to work in an agile environment
+• Strong problem-solving skills
+• Experience with cloud services (AWS, Azure, or GCP)
+
+Responsibilities:
+• Design and develop high-quality software solutions
+• Collaborate with cross-functional teams to define and implement new features
+• Write clean, maintainable, and efficient code
+• Troubleshoot and debug applications
+• Participate in code reviews and help maintain code quality
+• Stay up-to-date with emerging trends and technologies
