@@ -1,4 +1,3 @@
-# recruitment_system README.md
 
 # Recruitment System
 
